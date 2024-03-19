@@ -1,4 +1,6 @@
- ## OI eu sou o Benedito, Bem vindo(a) ao meu git 😃
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=olá!+👋;+me+chamo+Benedito!;" />
+</h1>
 
 <div>
  <a href="https://beacons.ai/Benedito-Dev">
@@ -22,5 +24,7 @@
   <a href = "mailto:beneditobittencourtt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
-![snake gif](https://github.com/Benedito-Dev/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
