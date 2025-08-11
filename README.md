@@ -49,6 +49,12 @@
   <a href = "mailto:beneditobittencourtt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo seus commits" src="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/output/pacman-contribution-graph.svg">
+</picture>
 <!--
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
