@@ -2,18 +2,18 @@ name: Pac-Man Contributions
 on:
   schedule:
     - cron: '0 0 * * *'  # Atualiza diariamente
-  workflow_dispatch:     # Permite acionar manualmente
+  workflow_dispatch:     # Acionamento manual
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        
+      
       - name: Generate Pac-Man Graph
-        uses: JasonEtco/activity-box@v1
+        uses: lowlighter/metrics@latest
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: "Update Pac-Man graph"
-          SVG_OUTPUT: "output/pacman-contribution-graph.svg"
-          THEME: "auto"  # Muda automaticamente entre light/dark
+          token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_pacman: yes
+          plugin_pacman_commit: yes
+          output: output/pacman-contribution-graph.svg
