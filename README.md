@@ -24,7 +24,7 @@
 <h2 align="flex-start"> 🌟 Projetos Destacados</h2>
 <ul style="color: #aaa; font-family: Arial, sans-serif;">
   <li>
-    [![github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=TecSIM)](https://github.com/Benedito-Dev/TecSIM)
+    <a href="https://link-do-projeto-2.com" style="color: #3b82f6; text-decoration: underline;">Projeto 1</a> - Breve descrição
   </li>
   <li>
     <a href="https://link-do-projeto-2.com" style="color: #3b82f6; text-decoration: underline;">Projeto 2</a> - Breve descrição
