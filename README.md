@@ -21,6 +21,17 @@
   <i class="devicon-react-original colored"></i>
 </div>
 
+<h2 align="flex-start"> 🌟 Projetos Destacados</h2>
+<ul style="color: #aaa; font-family: Arial, sans-serif;">
+  <li>
+    <a href="https://link-do-projeto-1.com" style="color: #3b82f6; text-decoration: underline;">Projeto 1</a> - Breve descrição
+  </li>
+  <li>
+    <a href="https://link-do-projeto-2.com" style="color: #3b82f6; text-decoration: underline;">Projeto 2</a> - Breve descrição
+  </li>
+</ul>
+
+
 ##
 
 <div>
