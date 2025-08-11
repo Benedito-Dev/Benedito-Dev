@@ -51,9 +51,12 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man comendo seus commits" src="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/output/pacman-contribution-graph.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Benedito-Dev/Benedito-Dev/output/pacman-contribution-graph-dark.svg">
+  <img 
+    alt="Pac-Man comendo commits" 
+    src="https://raw.githubusercontent.com/Benedito-Dev/Benedito-Dev/output/pacman-contribution-graph.svg">
 </picture>
 <!--
 <h1 align="center">
