@@ -1,0 +1,19 @@
+name: Pac-Man Contributions
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza diariamente
+  workflow_dispatch:     # Permite acionar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        
+      - name: Generate Pac-Man Graph
+        uses: JasonEtco/activity-box@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "Update Pac-Man graph"
+          SVG_OUTPUT: "output/pacman-contribution-graph.svg"
+          THEME: "auto"  # Muda automaticamente entre light/dark
