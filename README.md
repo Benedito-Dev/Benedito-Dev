@@ -39,8 +39,6 @@
 
 </div>
 
-##
-
 <h2 align="center"> 📫 Contato </h2>
 
 <div align="center">
