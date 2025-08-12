@@ -2,10 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Olá!+👋;+me+chamo+Benedito!;" />
 </h1>
 
-<div style="display: flex; gap: 50px;">
-  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api?username=Benedito-Dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&locale=pt-BR"">
-  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedito-Dev&layout=compact&langs_count=16&theme=github_dark&locale=pt-BR"">
-</div>
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Benedito-Dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&locale=pt-BR">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedito-Dev&layout=compact&langs_count=16&theme=github_dark&locale=pt-BR">
+</p>
 
 <h2 align="flex-start"> 🛠 Tecnologias Utilizadas</h2>
 
@@ -28,15 +29,15 @@
 
 ## 🌟 Projetos Destacados
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-### [Projeto 1](https://github.com/Benedito-Dev/TecSIM)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=TecSIM&theme=github_dark)](https://github.com/Benedito-Dev/TecSIM)  
-
-### [Projeto 2](https://github.com/Benedito-Dev/Giga-Cell)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=Giga-Cell&theme=github_dark)](https://github.com/Benedito-Dev/Giga-Cell)  
-
-</div>
+<p align="center">
+  <a href="https://github.com/Benedito-Dev/TecSIM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=TecSIM&theme=github_dark">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Benedito-Dev/Giga-Cell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=Giga-Cell&theme=github_dark">
+  </a>
+</p>
 
 <h2 align="center"> 📫 Contato </h2>
 
