@@ -2,10 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Olá!+👋;+me+chamo+Benedito!;" />
 </h1>
 
-<div style="display: flex">
- <a href="https://beacons.ai/Benedito-Dev">
-  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api?username=Benedito-Dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
-  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedito-Dev&layout=compact&langs_count=16&theme=github_dark">
+<div style="display: flex; gap: 50px;">
+  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api?username=Benedito-Dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&locale=pt-BR"">
+  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedito-Dev&layout=compact&langs_count=16&theme=github_dark&locale=pt-BR"">
 </div>
 
 <h2 align="flex-start"> 🛠 Tecnologias Utilizadas</h2>
