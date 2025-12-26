@@ -57,28 +57,6 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔹 TecSIM
-Sistema voltado para **simulação e gestão**, com foco em organização e eficiência.
-
-<p>
-  <a href="https://github.com/Benedito-Dev/TecSIM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=TecSIM&theme=github_dark">
-  </a>
-</p>
-
-### 🔹 Giga-Cell
-Aplicação desenvolvida para **controle e gerenciamento**, priorizando usabilidade e performance.
-
-<p>
-  <a href="https://github.com/Benedito-Dev/Giga-Cell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benedito-Dev&repo=Giga-Cell&theme=github_dark">
-  </a>
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
