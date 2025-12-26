@@ -10,10 +10,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco em **criar soluções eficientes, escaláveis e bem estruturadas**.  
-Tenho experiência no desenvolvimento de aplicações **web full stack**, desde interfaces modernas até APIs e integração com banco de dados.
+<p align="center">
+  Sou desenvolvedor com foco em <strong>criar soluções eficientes, escaláveis e bem estruturadas</strong>.<br>
+  Tenho experiência no desenvolvimento de aplicações <strong>web full stack</strong>, desde interfaces modernas até APIs e integração com banco de dados.
+</p>
 
-Busco sempre boas práticas, código limpo e aprendizado contínuo.
+<p align="center">
+  Busco sempre boas práticas, código limpo e aprendizado contínuo.
+</p>
 
 ---
 
@@ -35,6 +39,7 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
 </div>
 
 ### Back-end
@@ -47,6 +52,7 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
 ### Banco de Dados
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
 </div>
 
 ### Ferramentas
@@ -56,6 +62,21 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
 </div>
 
 ---
+
+## 💡 Stack & Experiência Técnica
+
+- Desenvolvimento de **APIs REST** com Node.js (Express e Fastify)
+- Autenticação e autorização com **JWT, OAuth 2.0 e Keycloak**
+- Implementação de **OTP e autenticação em duas etapas (2FA via e-mail)**
+- Integração com bancos relacionais e NoSQL usando **Prisma ORM e SQLAlchemy**
+- Modelagem de dados e consultas SQL avançadas
+- Uso intensivo de **Docker** e variáveis de ambiente
+- Deploy e CI/CD em **Vercel, Railway e Render**
+- Experiência com **AWS (cloud)**
+- Testes automatizados com **Jest, Selenium e K6**
+- Arquitetura **MVC** e **Clean Architecture**
+- Documentação de APIs com **Swagger / OpenAPI**
+- Versionamento com **Git Flow** e uso de **GitHub Projects / Issues**
 
 ## 📫 Contato
 
@@ -70,10 +91,3 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benedito-Dev/Benedito-Dev/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Benedito-Dev/Benedito-Dev/output/pacman-contribution-graph.svg">
-</picture>
