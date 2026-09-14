@@ -1,93 +1,114 @@
-<h1 align="center">
-  Olá, eu sou Benedito 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Desenvolvedor Full Stack • JavaScript • React • Node.js • Python
-</h3>
+# Olá, eu sou Benedito 👋
 
----
+### Desenvolvedor Full Stack | Node.js • React • PostgreSQL • Python
 
-## 👨‍💻 Sobre mim
+Construo aplicações que conectam **APIs, dados e interfaces**, trabalhando do backend à experiência final do usuário.
 
-<p align="center">
-  Sou desenvolvedor com foco em <strong>criar soluções eficientes, escaláveis e bem estruturadas</strong>.<br>
-  Tenho experiência no desenvolvimento de aplicações <strong>web full stack</strong>, desde interfaces modernas até APIs e integração com banco de dados.
-</p>
+Meu principal projeto atualmente é o **Segura-CE**, uma aplicação para análise e visualização de dados de segurança pública do Ceará, envolvendo API REST, banco de dados relacional, autenticação, mapas interativos, gráficos e infraestrutura com Docker.
 
-<p align="center">
-  Busco sempre boas práticas, código limpo e aprendizado contínuo.
-</p>
+[Projetos](#-projetos-em-destaque) • [Competências](#-competências-técnicas) • [Contato](#-contato)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Benedito-Dev&show_icons=true&theme=github_dark&locale=pt-BR">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedito-Dev&layout=compact&langs_count=10&theme=github_dark">
-</p>
-
----
-
-## 🛠️ Tecnologias
-
-### Front-end
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
-</div>
-
-### Back-end
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30"/>
-</div>
-
-### Banco de Dados
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-</div>
-
-### Ferramentas
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30"/>
 </div>
 
 ---
 
-## 💡 Stack & Experiência Técnica
+## 🚀 Projetos em destaque
 
-- Desenvolvimento de **APIs REST** com Node.js (Express e Fastify)
-- Autenticação e autorização com **JWT, OAuth 2.0 e Keycloak**
-- Implementação de **OTP e autenticação em duas etapas (2FA via e-mail)**
-- Integração com bancos relacionais e NoSQL usando **Prisma ORM e SQLAlchemy**
-- Modelagem de dados e consultas SQL avançadas
-- Uso intensivo de **Docker** e variáveis de ambiente
-- Deploy e CI/CD em **Vercel, Railway e Render**
-- Experiência com **AWS (cloud)**
-- Testes automatizados com **Jest, Selenium e K6**
-- Arquitetura **MVC** e **Clean Architecture**
-- Documentação de APIs com **Swagger / OpenAPI**
-- Versionamento com **Git Flow** e uso de **GitHub Projects / Issues**
+### 🗺️ Segura-CE
+
+**Plataforma web para análise e visualização de dados de segurança pública do Ceará.**
+
+O projeto trabalha com dados de **CVLI, furtos, ocorrências envolvendo arma de fogo e Lei Maria da Penha**, permitindo consultas, filtros, estatísticas e visualizações geográficas.
+
+**O que construí no projeto:**
+
+* API REST com **Node.js e Express**
+* Persistência e consultas com **PostgreSQL**
+* Separação em **Controllers, Services e Repository**
+* Autenticação utilizando **JWT**
+* Documentação da API com **Swagger / OpenAPI**
+* Interface web com **React e Vite**
+* Mapas interativos utilizando **Leaflet**
+* Gráficos e visualizações com **Recharts**
+* Ambiente containerizado com **Docker e Docker Compose**
+
+**Stack:** `Node.js` `Express` `PostgreSQL` `React` `Tailwind CSS` `JWT` `Swagger` `Leaflet` `Recharts` `Docker`
+
+➡️ **[Explorar o Segura-CE](https://github.com/Benedito-Dev/Segura-Ce)**
+
+---
+
+### 🏋️ 4-Fitness
+
+**Sistema desktop para gerenciamento de academia desenvolvido em Python.**
+
+Projeto voltado ao gerenciamento de alunos, treinos e acompanhamento de progresso físico, utilizando uma aplicação desktop integrada a banco de dados relacional.
+
+**Principais tecnologias:**
+
+* **Python**
+* **Tkinter**
+* **PostgreSQL**
+
+O projeto possui um histórico extenso de desenvolvimento e documentação de requisitos associada ao sistema.
+
+➡️ **[Explorar o 4-Fitness](https://github.com/Benedito-Dev/4-Fitness)**
+
+---
+
+## ⚙️ Competências técnicas
+
+As tecnologias abaixo representam principalmente aquilo que utilizo nos projetos que desenvolvo.
+
+| Área                 | Tecnologias                                |
+| -------------------- | ------------------------------------------ |
+| **Backend**          | Node.js, Express, Python, Django           |
+| **Frontend**         | React, JavaScript, HTML, CSS, Tailwind CSS |
+| **Banco de dados**   | PostgreSQL, MongoDB                        |
+| **APIs & Segurança** | REST, JWT, Swagger / OpenAPI               |
+| **Infraestrutura**   | Docker, Docker Compose                     |
+| **Versionamento**    | Git, GitHub                                |
+
+---
+
+## 🔎 O que você encontrará nos meus projetos
+
+Tenho concentrado meus estudos e desenvolvimento em aplicações que envolvem:
+
+**APIs e backend**
+Construção de endpoints REST, organização de regras de negócio e integração com bancos de dados.
+
+**Dados**
+Modelagem, persistência, consultas e transformação de dados para uso em aplicações.
+
+**Frontend integrado ao backend**
+Interfaces que consomem APIs e transformam dados em experiências utilizáveis.
+
+**Visualização de dados**
+Gráficos, filtros e mapas interativos para tornar conjuntos de dados mais compreensíveis.
+
+**Containerização**
+Configuração de ambientes utilizando Docker e Docker Compose.
+
+---
+
+## 📚 Atualmente aprofundando
+
+Tenho buscado aumentar minha profundidade principalmente em:
+
+`Arquitetura de Software` • `Backend` • `PostgreSQL` • `Testes` • `Docker` • `Cloud`
+
+Meu objetivo não é apenas adicionar tecnologias ao stack, mas entender **onde utilizá-las, quais problemas resolvem e quais trade-offs introduzem**.
+
+---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="mailto:beneditobittencourtt@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Benedito,%20vi%20seu%20perfil%20no%20GitHub.">
-    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/beneditobittencourtt/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://wa.me/5585988640696" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
+Estou aberto a oportunidades como **Desenvolvedor Full Stack / Backend** e a conversas sobre desenvolvimento de software.
+
+**Email:** [beneditobittencourtt@gmail.com](mailto:beneditobittencourtt@gmail.com)
+**LinkedIn:** `adicione-aqui-seu-link`
+
+</div>
